@@ -6,3 +6,6 @@ export default configureStore({
     app: appReducer,
   },
 });
+
+// app reducer in redux store
+
