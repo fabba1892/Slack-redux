@@ -68,3 +68,6 @@ const SidebarOptionChannel = styled.h3`
   padding: 10px 0;
   font-weight: 300;
 `;
+
+// passed the props and the channels
+
