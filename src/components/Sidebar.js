@@ -107,3 +107,6 @@ const SidebarInfo = styled.div`
     color: green;
   }
 `;
+
+// sidebar with options cahnnels threads styled etc
+
