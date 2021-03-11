@@ -80,4 +80,4 @@ const AppBody = styled.div`
   height: 100vh;
 `;
 
-// app setup with redux and styled compoenents 
+// app setups with redux and styled compoenents 
