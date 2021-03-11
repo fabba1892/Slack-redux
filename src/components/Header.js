@@ -97,4 +97,6 @@ const HeaderAvatar = styled(Avatar)`
 `;
 
 // header leaft/right with Avatar time search icons
+// header right helpoutline, header search & styled
+
 
