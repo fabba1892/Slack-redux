@@ -127,3 +127,5 @@ const ChatContainer = styled.div`
   overflow-y: scroll;
   margin-top: 60px;
 `;
+// chat headerLeft/right star/info icons
+
