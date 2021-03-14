@@ -73,3 +73,6 @@ const ChatInputContainer = styled.div`
     display: none !important;
   }
 `;
+
+// chat button and input send message event
+
