@@ -109,4 +109,6 @@ const SidebarInfo = styled.div`
 `;
 
 // sidebar with options cahnnels threads styled etc
+// sidebar icon, header/info sectios & record/create
+
 
