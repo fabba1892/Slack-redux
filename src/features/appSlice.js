@@ -17,3 +17,6 @@ export const { enterRoom } = appSlice.actions;
 export const selectRoomId = (state) => state.app.roomId;
 
 export default appSlice.reducer;
+
+// enterRoom data layer slice logic of redux store
+
