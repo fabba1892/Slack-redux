@@ -70,4 +70,6 @@ const SidebarOptionChannel = styled.h3`
 `;
 
 // passed the props and the channels
+// sidebarOptn add channel in db function
+
 
