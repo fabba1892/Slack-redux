@@ -130,6 +130,8 @@ const ChatContainer = styled.div`
 // chat headerLeft/right star/info icons
 // chat messages and input
 // change room name in chat input & details
+// change name of room on top
+
 
 
 
