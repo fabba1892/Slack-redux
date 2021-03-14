@@ -128,4 +128,6 @@ const ChatContainer = styled.div`
   margin-top: 60px;
 `;
 // chat headerLeft/right star/info icons
+// chat messages and input
+
 
