@@ -40,3 +40,4 @@ const MessageInfo = styled.div`
     font-size: 10px;
   }
 `;
+// messages props/details in the chat

@@ -131,6 +131,8 @@ const ChatContainer = styled.div`
 // chat messages and input
 // change room name in chat input & details
 // change name of room on top
+// messages props/details in the chat
+
 
 
 
