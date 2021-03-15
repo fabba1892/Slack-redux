@@ -77,6 +77,8 @@ const ChatInputContainer = styled.div`
 // chat button and input send message event
 // add to db, useState, setInput functionality
 // chat will jump to the bottom when send message
+// get Avatar and Chat of the person logging in
+
 
 
 
