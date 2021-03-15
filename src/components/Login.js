@@ -54,3 +54,5 @@ const LoginInnerContainer = styled.div`
     color: white;
   }
 `;
+// login functn with button and google auth
+
