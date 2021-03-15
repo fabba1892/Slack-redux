@@ -134,6 +134,8 @@ const ChatContainer = styled.div`
 // messages props/details in the chat
 // add the message at bottom when open new room
 // chat will jump to the bottom when send message
+// only get the messages when you click a channel
+
 
 
 
