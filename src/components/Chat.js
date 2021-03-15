@@ -133,6 +133,8 @@ const ChatContainer = styled.div`
 // change name of room on top
 // messages props/details in the chat
 // add the message at bottom when open new room
+// chat will jump to the bottom when send message
+
 
 
 
