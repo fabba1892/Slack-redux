@@ -84,4 +84,6 @@ const AppBody = styled.div`
 // render chat 
 // login render with image
 // spinkit for load screen imported
+// app load screen created
+
 
