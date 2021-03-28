@@ -83,3 +83,5 @@ const AppBody = styled.div`
 // app setups with redux and styled compoenents 
 // render chat 
 // login render with image
+// spinkit for load screen imported
+
