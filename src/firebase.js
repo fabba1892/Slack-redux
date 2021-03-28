@@ -19,4 +19,6 @@ export { auth, provider };
 export default db;
 
 //  npm i firebase setup; auth db and provider
+// firebase login/init/deploy done
+
 
