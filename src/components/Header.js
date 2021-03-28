@@ -100,6 +100,8 @@ const HeaderAvatar = styled(Avatar)`
 // header right helpoutline, header search & styled
 // onlick avatar then should log out
 // get Avatar and Chat of the person logging in
+// user info from auth updated
+
 
 
 
